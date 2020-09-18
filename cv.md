@@ -14,8 +14,8 @@
 *JavsScript Basics*, *Git*, *Github*, *Gitlab*...
 
 ### Education
-EPAM Basic JavaScript with Personal Mentor (right now).
-RSSchool JavaScript Development (right now).
+- EPAM Basic JavaScript with Personal Mentor (right now).
+- RSSchool JavaScript Development (right now).
 
 ### English
 Intermediate, i think.
